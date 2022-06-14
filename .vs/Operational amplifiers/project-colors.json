@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d32dd3a8-e6d1-445d-abbd-c9514fed0383": {
+      "ProjectGuid": "d32dd3a8-e6d1-445d-abbd-c9514fed0383",
+      "DisplayName": "Operational amplifiers",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

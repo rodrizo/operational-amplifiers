@@ -1,0 +1,18 @@
+C:\Users\Rodney Rizo\Desktop\Development\.NET\operational-amplifiers\Operational amplifiers\bin\Debug\Operational amplifiers.exe.config
+C:\Users\Rodney Rizo\Desktop\Development\.NET\operational-amplifiers\Operational amplifiers\bin\Debug\Operational amplifiers.exe
+C:\Users\Rodney Rizo\Desktop\Development\.NET\operational-amplifiers\Operational amplifiers\bin\Debug\Operational amplifiers.pdb
+C:\Users\Rodney Rizo\Desktop\Development\.NET\operational-amplifiers\Operational amplifiers\obj\Debug\Operational amplifiers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rodney Rizo\Desktop\Development\.NET\operational-amplifiers\Operational amplifiers\obj\Debug\Operational_amplifiers.Form1.resources
+C:\Users\Rodney Rizo\Desktop\Development\.NET\operational-amplifiers\Operational amplifiers\obj\Debug\Operational_amplifiers.Forms.FormInversor.resources
+C:\Users\Rodney Rizo\Desktop\Development\.NET\operational-amplifiers\Operational amplifiers\obj\Debug\Operational_amplifiers.Properties.Resources.resources
+C:\Users\Rodney Rizo\Desktop\Development\.NET\operational-amplifiers\Operational amplifiers\obj\Debug\Operational amplifiers.csproj.GenerateResource.cache
+C:\Users\Rodney Rizo\Desktop\Development\.NET\operational-amplifiers\Operational amplifiers\obj\Debug\Operational amplifiers.csproj.CoreCompileInputs.cache
+C:\Users\Rodney Rizo\Desktop\Development\.NET\operational-amplifiers\Operational amplifiers\obj\Debug\Operational amplifiers.exe
+C:\Users\Rodney Rizo\Desktop\Development\.NET\operational-amplifiers\Operational amplifiers\obj\Debug\Operational amplifiers.pdb
+C:\Users\Rodney Rizo\Desktop\Development\.NET\operational-amplifiers\Operational amplifiers\obj\Debug\Operational amplifiers.csproj.AssemblyReference.cache
+C:\Users\Rodney Rizo\Desktop\Development\.NET\operational-amplifiers\Operational amplifiers\obj\Debug\Operational_amplifiers.Forms.FormNoInversor.resources
+C:\Users\Rodney Rizo\Desktop\Development\.NET\operational-amplifiers\Operational amplifiers\obj\Debug\Operational_amplifiers.Forms.FormSumador.resources
+C:\Users\Rodney Rizo\Desktop\Development\.NET\operational-amplifiers\Operational amplifiers\obj\Debug\Operational_amplifiers.Forms.FormRestador.resources
+C:\Users\Rodney Rizo\Desktop\Development\.NET\operational-amplifiers\Operational amplifiers\obj\Debug\Operational_amplifiers.Forms.FormCero.resources
+C:\Users\Rodney Rizo\Desktop\Development\.NET\operational-amplifiers\Operational amplifiers\obj\Debug\Operational_amplifiers.Forms.FormMoreLess.resources
+C:\Users\Rodney Rizo\Desktop\Development\.NET\operational-amplifiers\Operational amplifiers\obj\Debug\Operational_amplifiers.Forms.FormVoltage.resources
